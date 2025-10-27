@@ -1,4 +1,4 @@
 dns:
   # 对部分域名使用单独的 DNS 服务器
   nameserver-policy:
-    '*.yonghui.cn': 10.0.112.21
+    '+.yonghui.cn': 10.0.112.21
