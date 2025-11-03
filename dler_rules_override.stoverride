@@ -1,0 +1,17 @@
+rules:
+    - DOMAIN-SUFFIX, yonghui.cn, DIRECT
+    - DOMAIN-SUFFIX, harmonyos.com, DIRECT
+    - DOMAIN-SUFFIX, aliyun.com, DIRECT
+    - DOMAIN-SUFFIX, getui.com, DIRECT
+    - DOMAIN-SUFFIX, adobe.com, REJECT
+    - DOMAIN-SUFFIX, adobe.io, REJECT
+    - DOMAIN-SUFFIX, adobelogin.com, REJECT
+    - DOMAIN-SUFFIX, adobeaemcloud.com, REJECT
+    - DOMAIN-SUFFIX, adobesc.com, REJECT
+    - DOMAIN-SUFFIX, adobeccstatic.com, REJECT
+    - DOMAIN-SUFFIX, adobedtm.com, REJECT
+    - DOMAIN-SUFFIX, adobeconnect.com, REJECT
+    - DOMAIN-SUFFIX, adobesign.com, REJECT
+    - DOMAIN-SUFFIX, adobetag.com, REJECT
+    - DOMAIN-SUFFIX, adobeaemcloud.net, REJECT
+    - DOMAIN, v2ex.com, Proxy
