@@ -1,5 +1,7 @@
   - DOMAIN, v2ex.com, Proxy
   - DOMAIN-SUFFIX, yonghui.cn, DIRECT
+  - DOMAIN-SUFFIX, yonghuivip.com, DIRECT
+  - DOMAIN-SUFFIX, yonghuicloud.cn, DIRECT
   - DOMAIN-SUFFIX, harmonyos.com, DIRECT
   - DOMAIN-SUFFIX, aliyun.com, DIRECT
   - DOMAIN-SUFFIX, getui.com, DIRECT
