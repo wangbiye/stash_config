@@ -16,4 +16,4 @@
   - DOMAIN-SUFFIX, adobesign.com, REJECT
   - DOMAIN-SUFFIX, adobetag.com, REJECT
   - DOMAIN-SUFFIX, adobeaemcloud.net, REJECT
-  - GEOIP, CN, DIRECT
+  - IP-CIDR, 0.0.0.0/0, DIRECT
